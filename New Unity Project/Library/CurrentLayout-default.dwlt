@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 232, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 60
+  controlID: 170
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -126,7 +126,7 @@ MonoBehaviour:
   m_MinSize: {x: 824, y: 492}
   m_MaxSize: {x: 18004, y: 14042}
   vertical: 0
-  controlID: 33
+  controlID: 59
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -272,7 +272,7 @@ MonoBehaviour:
   m_MinSize: {x: 201, y: 442}
   m_MaxSize: {x: 4001, y: 8042}
   vertical: 1
-  controlID: 34
+  controlID: 15
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -364,21 +364,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Scripts
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Scripts
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\appedu\Documents\GitHub\Unity_HC_T_3DRPGGame\New Unity
-    Project
+  m_LastProjectPath: E:\yeyue\Unity_HC_T_3DRPGGame\New Unity Project
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: bc330000
-    m_LastClickedID: 13244
-    m_ExpandedIDs: 00000000bc330000be330000c0330000c2330000c433000000ca9a3b
+    m_SelectedIDs: 40550000
+    m_LastClickedID: 21824
+    m_ExpandedIDs: 00000000225500002455000026550000285500002a55000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -406,7 +405,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000bc330000be330000c0330000c2330000c4330000
+    m_ExpandedIDs: 00000000225500002455000026550000285500002a550000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -529,9 +528,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: d0330000
+      m_SelectedIDs: 26560000
       m_LastClickedID: 0
-      m_ExpandedIDs: 6afbffff
+      m_ExpandedIDs: f061ffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -641,11 +640,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.18818118, y: -0.0008865567, z: 0.00016967652, w: -0.98213464}
     speed: 2
-    m_Value: {x: -0.18670763, y: -0.0008868096, z: 0.00016834638, w: -0.9824151}
+    m_Value: {x: -0.18818104, y: -0.00088655605, z: 0.00016967641, w: -0.9821339}
   m_Size:
     m_Target: 9.151423
     speed: 2
-    m_Value: 8.757343
+    m_Value: 9.151423
   m_Ortho:
     m_Target: 0
     speed: 2
